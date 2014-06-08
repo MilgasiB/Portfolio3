@@ -1,0 +1,85 @@
+
+body {
+
+}
+header {
+	background:url(background2.jpg) repeat-x;
+	display:inline-block;
+	width:100%;
+	position:fixed;
+	top:0px;
+}
+nav {
+	display:inline-block;
+}
+
+
+.buttons {
+	margin-left:9em;
+	display:inline-block;
+}
+
+#logo {
+	display:inline-block;
+	height:70px;
+}
+#aboutMeBox {
+	margin-top:100px;
+
+}
+#content{
+	width:100%;
+	text-align:center;
+}
+
+#text1, #text2 {
+		font-size:12.5px;
+}
+#text1 {
+	width:150px;
+	position:fixed;
+	top: 125px;
+	left:400px;
+
+}
+#text2 {
+	width:260px;
+	position:fixed;
+	left:285px;
+	top:290px;
+}
+
+#flower {
+	display:inline-block;
+}
+
+.recentPosts
+{
+	margin-top:2em;
+	list-style:none;
+}
+
+#bottomBar {
+	border:2px solid black;
+	background-color: #079f7d;
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	height:40px;
+	width:100%;
+}
+a, a:visited {
+	text-decoration:none;
+	color:#000000;
+}
+
+#text {
+	width:500px;
+	position:fixed;
+	top:130px;
+	left:435px;
+}
+#contactMe{
+	text-align:center;
+	font-style: italic;
+}
